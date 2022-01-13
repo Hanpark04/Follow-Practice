@@ -10,11 +10,11 @@
 *   Additional OpenCV functionality : https://github.com/opencv/opencv_contrib
 
 ## Contributing<br>
-Please read the <font color=blue>contribution guidelines</font> before starting work on a pull request.
+Please read the [contribution guidelines]() before starting work on a pull request.
 
 ### Summary of the guidelines:<br>
 *   One pull request per issue;
 *   Choose the right base branch;
 *   Include tests and documentation;
 *   Clean up "oops" commits before submitting;
-*   Follow the <font color=blue>coding style guide</font>.
+*   Follow the [coding style guide]().
